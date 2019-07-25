@@ -1,0 +1,79 @@
+.newspaper{
+    padding-left: 200px;
+}
+.toolbar
+{
+    background-color: rgb(27, 164, 228);
+}
+.searchbox{
+    padding-left: 120px;
+   
+}
+.searchinput{
+    width: 150px;
+    height: 25px;
+    font-size: medium
+}
+.splbutton{
+    padding-right: 100px;
+}
+.srbutton:hover,.splbutton:hover{
+    cursor: pointer;
+    background-color: #030b36;
+    color: white;
+}
+
+.morenews{
+
+        margin: 0 auto; 
+        width:160px;
+        background-color: #6c7acc;
+        color: white;
+}
+  .example-card{
+      margin-top: 4px;
+  }
+  
+  .example-header-image { 
+    background-size: cover;
+  }
+  
+  .title{
+      font-weight: bold;
+  }
+  
+  .img-article{
+      height: 450px;
+  }
+  
+  .action-buttons{
+      text-align: center;
+  }
+  
+  .example-container {
+      width: 100%;
+      height: auto;
+      border: 1px solid rgba(111, 111, 111, 0.50);
+  }
+  
+  .example-sidenav-content {
+      display: flex;
+      height: 75%;
+      align-items: center;
+      justify-content: center;
+  }
+  
+  .example-sidenav {
+      padding: 20px;
+  }
+  
+  .category-name {
+      margin-left:5px; 
+  }
+  
+  .list-item:hover{
+      cursor: pointer;
+      background-color: #030b36;
+      color: white;
+  }
+  
